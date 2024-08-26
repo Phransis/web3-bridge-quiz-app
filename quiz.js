@@ -39,7 +39,7 @@ export function questionBuilder(id) {
 
   document.querySelector('.js-quiz-box').innerHTML = `
   <header>
-    <div class="title">Quiz Appliation by Kazeem</div>
+    <div class="title">Quiz Appliation by Francis</div>
     <div class="timer">
       <div class="time_text">Time Left</div>
       <div class="timer_sec"></div>
